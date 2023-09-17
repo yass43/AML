@@ -17,8 +17,8 @@ They make the following contributions :
 * Flexible sampling and likelihood computation
 
 #### Talk Slides
-- PDF version of the slides is available here
-- Marp markdown version of the slides is available here
+- PDF version of the slides is available [https://github.com/yass43/AML/blob/main/Talk_1/Presentation_aml_pdf.pdf]
+- Marp markdown version of the slides is available [https://github.com/yass43/AML/blob/main/Talk_1/Presentation_aml.md]
 
 ### Talk 2: [Title of the Second Talk]
 
