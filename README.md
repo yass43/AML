@@ -17,28 +17,23 @@ They make the following contributions :
 * Flexible sampling and likelihood computation
 
 #### Talk Slides
-- PDF version of the slides is available [https://github.com/yass43/AML/blob/main/Talk_1/Presentation_aml_pdf.pdf]
-- Marp markdown version of the slides is available [https://github.com/yass43/AML/blob/main/Talk_1/Presentation_aml.md]
+- PDF version of the slides is available [here](https://github.com/yass43/AML/blob/main/Talk_1/Presentation_aml_pdf)
+- Marp markdown version of the slides is available [here](https://github.com/yass43/AML/blob/main/Talk_1/Presentation_aml.md)
 
-### Talk 2: [Title of the Second Talk]
+### Talk 2: Unsupervised Representation Learning from Pretrained Diffusion Probabilistic 
 
-- Paper Title: [Title of the Second Paper]
-- Authors: [Authors of the Second Paper]
+- Paper Title: Unsupervised Representation Learning from Pretrained Diffusion Probabilistic 
+- Authors: Zijian Zhang, Zhou Zhao and Zhijie Lin
 
 #### Abstract
-[Provide a brief summary of the paper's main contributions and findings.]
-
+The Pre-trained DPM AutoEncoding (PDAE) approach enhances decoder efficiency and performance by addressing information loss in pre-trained DPMs during image reconstruction. This novel technique involves predicting a mean shift based on encoded representations, effectively filling the information gap and compelling the encoder to learn more from images, ultimately resulting in meaningful and efficient representation learning.
+They make the following contributions :  
+* Observed that when diffusing an image, the reconstruction gap  is smaller in the conditionnal case than in the conditionnal case 
+* Designed a VAE that will learn a representation that allows the latent reconstruction gap as small as possible
+* Found a critical time zone in which the mean shift has a large impact
+  
 #### Talk Slides
-- [Link to the slides for the second talk]
+- PDF version of the slides is available [here](https://github.com/yass43/AML/blob/main/Talk_2/Talk_2_presentation.pdf)
+- Marp markdown version of the slides is available [here](https://github.com/yass43/AML/blob/main/Talk_2/Talk_2_presentation.pdf)
 
-## Additional Resources
-
-In addition to the talk slides, I have included any relevant code or supplementary materials in the "code" directory. Please feel free to explore these resources for a deeper understanding of the topics discussed in the talks.
-
-## Contact
-
-If you have any questions or would like to discuss these topics further, please don't hesitate to contact me:
-
-- [Your Name]
-- Email: [Your Email Address]
 
