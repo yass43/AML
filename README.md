@@ -6,7 +6,7 @@ This repository contains the slides and related materials for the talks we prese
 
 ### Talk 1: Score-Based Generative Modeling through Stochastic Differential Equations
 
-- Paper Title: SScore-Based Generative Modeling through Stochastic Differential Equations
+- Paper Title: Score-Based Generative Modeling through Stochastic Differential Equations
 - Authors: Yang Song, Jascha Sohl-Dickstein, Diederik P. Kingma, Abhishek Kumar, Stefano Ermon, Ben Poole
 
 #### Abstract
