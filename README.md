@@ -20,7 +20,7 @@ They make the following contributions :
 - PDF version of the slides is available [here](https://github.com/yass43/AML/blob/main/Talk_1/Presentation_aml_pdf)
 - Marp markdown version of the slides is available [here](https://github.com/yass43/AML/blob/main/Talk_1/Presentation_aml.md)
 
-### Talk 2: Unsupervised Representation Learning from Pretrained Diffusion Probabilistic 
+### Talk 2: Unsupervised Representation Learning from Pre-trained Diffusion Probabilistic 
 
 - Paper Title: Unsupervised Representation Learning from Pretrained Diffusion Probabilistic 
 - Authors: Zijian Zhang, Zhou Zhao and Zhijie Lin
