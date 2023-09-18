@@ -22,7 +22,7 @@ They make the following contributions :
 
 ### Talk 2: Unsupervised Representation Learning from Pre-trained Diffusion Probabilistic 
 
-- Paper Title: Unsupervised Representation Learning from Pretrained Diffusion Probabilistic 
+- Paper Title: Unsupervised Representation Learning from Pre-trained Diffusion Probabilistic 
 - Authors: Zijian Zhang, Zhou Zhao and Zhijie Lin
 
 #### Abstract
